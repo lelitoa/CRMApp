@@ -1,3 +1,11 @@
+# To start project
+
+## #1 Go to .\crm-app
+### `cd crm-app`
+
+## #2 Install React Script
+### `npm install react-scripts`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
